@@ -2,6 +2,7 @@
 ## DATE:
 
 ## AIM: 
+
 To create orthographic view of given 3D model
 
 ## REQUIREMENTS: 
@@ -36,6 +37,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+
+![Screenshot 2024-10-09 140625](https://github.com/user-attachments/assets/c937dd25-fbb6-4a74-a51c-35e76b55972c)
 
 
 ## RESULT:
